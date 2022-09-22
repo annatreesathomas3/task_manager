@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "title": "Task One",
+      "day": "sept 20 at 3.30pm",
+      "status": true
+    },
+    {
+      "id": "2",
+      "title": "Task Two",
+      "day": "sept 22 at 5.30pm",
+      "status": false
+    },
+    {
+      "title": "Dentist appointment",
+      "day": "oct 3rd at 11.00",
+      "status": true,
+      "id": "grpePVX"
+    }
+  ]
+}
